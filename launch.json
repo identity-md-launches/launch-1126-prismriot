@@ -11,7 +11,7 @@
   "contracts": [],
   "pool": {
     "pairedCurrency": "0xd34a99bc0f67ae1bbd63c660e6d0b0dd03e263b7",
-    "fee": 3000,
+    "fee": 12500,
     "tickSpacing": 60,
     "initialPrice": "125270724187523965593206900"
   },
